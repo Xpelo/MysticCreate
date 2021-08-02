@@ -37,3 +37,6 @@ Now we ensamble the information and it returns the code
 
 .addBlock("trash",x,y)
 
+# Instalation
+## CDN
+<script src="https://raw.githubusercontent.com/Xpelo/MysticCreate/main/mystic.js"></script>
